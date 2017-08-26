@@ -1,0 +1,5 @@
+/* background + center content */
+body {
+  background-color: black;
+  text-align: center;
+}
