@@ -3,6 +3,7 @@ body {
   background-color: black;
   text-align: center;
 }
+
 /* Main head style */
 h1 {
   font-family: Verdana, sans-serif;
@@ -29,4 +30,11 @@ p {
 /* copyright style */
 #footer {
   text-align: right !important;
+}
+
+/* links */
+a{
+  color: aquamarine;
+  font-size: 16px;
+  cursor: pointer;
 }
