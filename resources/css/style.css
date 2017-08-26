@@ -3,3 +3,10 @@ body {
   background-color: black;
   text-align: center;
 }
+/* Main head style */
+h1 {
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
